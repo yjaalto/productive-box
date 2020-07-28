@@ -1,4 +1,4 @@
-name: Update gist
+name: Update gist productive box
 on:
   push:
     branches:
